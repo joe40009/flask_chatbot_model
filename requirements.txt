@@ -1,0 +1,8 @@
+gensim==3.8.1
+keras==2.3.1
+flask_script
+rasa==1.7.0 
+pymysql 
+jieba 
+xmljson
+bert-tensorflow
